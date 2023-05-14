@@ -69,6 +69,18 @@ This project is used by the following:
 - Kaduna State University
 - Daton
 
+## Diagrams
+- Schematic block diagram of a Facial Recognition System
+
+![](schematic_diagram.png)
+
+- Use case diagram illustrating the system behaviour
+
+![](use_case_diagram.png)
+
+- Flow chart of the system
+
+![](flowchart.png)
 
 ## Tech Stack
 
