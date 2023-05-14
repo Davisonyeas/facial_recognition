@@ -157,10 +157,11 @@ def generate_frames():
         
         cv2.imshow("Recognizing face", frame)
 
-        if cv2.waitKey(1) == 27:
+        if cv2.waitKey(1) & 0xFF == ord('q'):
             break
     
     cv2.destroyAllWindows()
 
 
 
+generate_frames()
