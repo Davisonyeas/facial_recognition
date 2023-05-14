@@ -4,6 +4,7 @@
 Face recognition technology is a biometric technology, which is based on the identificationof facial features of a person. It is a technology in which computers use to recognize faces
 
 
+![](mask_det.gif)  
 
 ## Acknowledgements
 
