@@ -1,7 +1,7 @@
 
 # Facial Recognition System
 
-Face recognition technology is a biometric technology, which is based on the identificationof facial features of a person. It is a technology in which computers use to recognize faces
+Facial recognition systems are automated technologies that can identify or verify a person's identity using their facial features. These systems use algorithms and machine learning to analyze and compare facial images with a database of known faces to determine if there is a match.
 
 
 ![](face_recognition.gif)  
