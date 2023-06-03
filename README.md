@@ -118,4 +118,4 @@ Portfolio Website, [Duck Duck Go](bit.ly/davisonye "Davis Onyeoguzoro Website"
 
 bit.ly/davisonye
 
-I love supporting the **[EFF](https://eff.org)**.
+I love supporting the **[EFF](bit.ly/davisonye)**.
