@@ -87,13 +87,29 @@ This project is used by the following:
 - Dlib, Numpy, OpenCV, Flask
 ## How to use 
 
-- pip install requirements.txt
+- Clone the repo
+$ git clone https://github.com/Davisonyeas/facial_recognition.git
 
-- python app.py
+- Change your directory to the cloned repo and create a Python virtual environment named 'face_recog'
+$ mkvirtualenv face_recog
+
+- Now, run the following command in your Terminal/Command Prompt to install the libraries required
+$ pip3 install -r requirements.txt
+
+python app.py
+
+## 👏 Congratulations
+You have completed a Computer Vision project that can now be deployed.
+
+## 🤝 Contribution
+Feel free to file a new issue with a respective title and description on the this face recognition repository. If you already found a solution to your problem, I would love to review your pull request!
+
+## ❤️ Owner
+Made by Davis Onyeoguzoro
 
 
 ## Connect
 
-For support, email davisonyeas1@gmail.com
+Feel free to mail me for any doubts/query ✉️ davisonyeas1@gmail.com
 
 Follow me on LinkedIn, https://www.linkedin.com/in/davis-onyeoguzoro/
