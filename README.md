@@ -114,4 +114,4 @@ Feel free to mail me for any doubts/query ✉️ davisonyeas1@gmail.com
 
 Follow me on LinkedIn, https://www.linkedin.com/in/davis-onyeoguzoro/
 
-Portfolio Website, [Duck Duck Go](bit.ly/davisonye.com "Davis Onyeoguzoro Website"
+Portfolio Website, [Duck Duck Go](bit.ly/davisonye "Davis Onyeoguzoro Website"
